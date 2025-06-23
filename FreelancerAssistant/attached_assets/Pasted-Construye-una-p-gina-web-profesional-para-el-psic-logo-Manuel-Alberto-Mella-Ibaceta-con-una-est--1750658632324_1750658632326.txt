@@ -1,0 +1,56 @@
+Construye una página web profesional para el psicólogo **Manuel Alberto Mella Ibaceta** con una estética y estructura similar a https://carlabaeza.com. El diseño debe ser moderno, limpio, elegante y completamente responsive. No debe usar frameworks externos, solo HTML5, CSS3 y JavaScript puro.
+
+**Estructura y funcionalidades requeridas:**
+
+1. **Header fijo** (en todas las páginas)
+   - A la izquierda: Logo o nombre "Manuel Mella Psicólogo".
+   - A la derecha: Menú de navegación con enlaces a secciones: Sobre mí, Mirada Integradora, Servicios, Online, Contacto.
+   - En versión móvil: menú hamburguesa desplegable.
+
+2. **Sección Hero (principal)**
+   - Fondo limpio o imagen cálida desenfocada.
+   - Título: “Bienvenido, soy Manuel Mella”.
+   - Subtítulo: “Psicología integradora para tu bienestar emocional, relacional y vital.”
+   - Botón CTA: “Agendar sesión” que lleva a la sección de contacto.
+
+3. **Secciones principales con navegación por ID:**
+
+   a) **Sobre mí**
+      - Texto: Psicólogo con experiencia clínica, educacional y comunitaria. Formación integradora (TCC, sistémico, humanista). Escucha activa, ética y compromiso con el proceso del consultante.
+      - Imagen profesional.
+
+   b) **Mirada Integradora**
+      - Explicación de enfoque: intervención flexible adaptada a cada persona.
+      - Lista de herramientas: TCC, PNL, DBT, enfoque sistémico, mindfulness.
+      - Botón: “Más información”.
+
+   c) **Servicios**
+      - Tipos de sesiones: individuales (adultos y adolescentes), familiares, talleres grupales.
+      - Modalidades: presencial y online.
+      - Duración, frecuencia sugerida.
+      - Botón: “Más información”.
+
+   d) **Online**
+      - Breve guía para sesiones virtuales: plataforma usada, recomendaciones básicas.
+      - Botón para agendar sesión online.
+
+4. **Formulario de contacto**
+   - Campos: Nombre, Email, Mensaje.
+   - Validación simple (no campos vacíos).
+   - Mensaje de confirmación tras envío (simulado, sin backend).
+
+5. **Footer**
+   - Información de contacto: mellaibacetam@gmail.com / +569 4503 8123
+   - Íconos sociales: LinkedIn, Instagram (si aplica).
+   - Texto legal o derechos reservados.
+
+6. **Estética y experiencia visual**
+   - Paleta de colores: blanco, negro, grises y acento cálido (coral o terracota).
+   - Tipografía: sans-serif moderna, con títulos grandes y cuerpo legible.
+   - Animaciones: hover suave (escala 1.05x), transición 0.3s ease, scroll suave, animaciones de entrada tipo fade-in/slide-up.
+   - Diseño responsive: tarjetas en cuadrícula para escritorio y en columna para móviles.
+
+7. **Técnico**
+   - No usar Bootstrap, jQuery ni librerías externas.
+   - Usa solo `index.html`, `styles.css` y `script.js`.
+   - Incluye comentarios explicativos en el código para facilitar futuras ediciones.
